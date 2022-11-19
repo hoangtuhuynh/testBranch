@@ -203,10 +203,6 @@ int check_placex(){
 		return n1;
 	}
 }	
-
-
-
-
 void placex(int m)
 {
     int n1 = 0;
